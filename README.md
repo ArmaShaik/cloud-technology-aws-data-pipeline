@@ -25,27 +25,15 @@ I independently designed and implemented the full AWS pipeline, from ingesting d
 
 ## 📊 Data Architecture
 
-![Data Architecture](./DataArchitecture.png)
-
-This pipeline demonstrates a modern AWS-native flow:  
-1. **Raw data ingestion** via S3  
-2. **ETL transformation** via AWS Glue  
-3. **Data warehouse storage** in Redshift  
-4. **Model training & prediction** via SageMaker Canvas
-
----
+![Data Architecture](./CloudTechnologyAWS/DataArchitecture.png)
 
 ## ⚙️ AWS Glue Job Flow
 
-![AWS Glue](./AWSGlue.png)
-
-In Glue Studio, I joined datasets, removed unnecessary columns, and loaded cleaned data into Redshift for modeling.
-
----
+![AWS Glue](./CloudTechnologyAWS/AWSGlue.png)
 
 ## 🤖 Model Output from SageMaker Canvas
 
-![Model Predictions](./ModelPredictions.png)
+![Model Predictions](./CloudTechnologyAWS/ModelPredictions.png)
 
 - **Accuracy:** 95.16%  
 - **Precision:** 36.25%  
