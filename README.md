@@ -67,7 +67,7 @@ The model correctly predicted bankruptcy ~95% of the time using historical data.
 Feel free to reach out if you want to talk cloud pipelines or data architectures:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/armashaik)  
-- 📬 arma.rahamath@gmail.com
+
 
 ---
 
